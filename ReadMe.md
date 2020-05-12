@@ -272,8 +272,13 @@ English | Japanese | Kana | Notes
 Ampere | アンペア | | E.g. 1A ⇒ 1アンペア
 Bill of Materials (BOM) | 部品表 | ぶひんひょう |
 Bidirectional | 双方向 | そうほうこ |
+<<<<<<< HEAD
 Blind via | ブラインドビア | |
 Burried via | べリッドビア | |
+=======
+Blind via | べリッドビア | |
+Burried via | ブラインドビア | |
+>>>>>>> c620e6fe4778a9a6baf37136e1881ea87dfd42d9
 Capacitor | コンデンサ | | Alternatively: キャパシタ
 Certification | 認証 | にんしょう |
 Circuit | 回路 | かいろ |
