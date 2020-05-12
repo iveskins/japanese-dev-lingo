@@ -122,6 +122,7 @@ Implementation | 実装 | じっそう |
 Design | 設計 | せっけい | Of code, infrastructure and systems, etc.
 Font | フォント | |
 Execution | 実行 | じっこう | Of a function or program
+To run (an application) | （アプリケーション）を実行する |　じっこうする |
 Structure | 仕組み | しくみ | Eg. of code
 Format | 形式 | けいしき | Eg. of data
 Line | 〜行 | ぎょう | Eg. １３行 (line 13)
